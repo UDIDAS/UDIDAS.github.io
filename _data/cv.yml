@@ -1,0 +1,153 @@
+cv:
+  name: Udiptaman Das
+  label: PhD Candidate, Computer Science
+  email: ud3d4@umkc.edu
+  phone: +1-816-709-0395
+  location: Kansas City, MO, USA
+  image: ""
+  summary: >
+    PhD candidate in Computer Science at UMKC specializing in multi-agent systems,
+    LLM reliability, and knowledge graphs. Expert in building end-to-end RAG pipelines
+    and clinical knowledge extraction systems, with a proven track record in reducing
+    model hallucinations via trust-aware validation layers and uncertainty-calibrated
+    graph reasoning.
+
+  social_networks:
+    - network: GitHub
+      username: UDIDAS
+    - network: LinkedIn
+      username: udiptaman-das
+
+  sections:
+    Education:
+      - institution: University of Missouri, Kansas City
+        location: Kansas City, MO, USA
+        area: Computer Science
+        studyType: PhD (in progress)
+        start_date: 2023
+        end_date: 2027 (expected)
+        highlights:
+          - Research focus on knowledge graphs, multi-agent LLM systems, and trustworthy AI for healthcare
+          - 3 accepted publications, 5 under review at top venues
+
+      - institution: University of Missouri, Kansas City
+        location: Kansas City, MO, USA
+        area: Data Science and Analytics
+        studyType: MS
+        start_date: 2022
+        end_date: 2024
+
+      - institution: Indian Institute of Technology, Madras
+        location: Madras, India
+        area: Programming and Data Science
+        studyType: Foundational Degree
+        start_date: 2020
+        end_date: 2021
+
+      - institution: Assam Engineering College
+        location: Assam, India
+        area: Electrical Engineering
+        studyType: BE
+        start_date: 2015
+        end_date: 2020
+
+    Experience:
+      - company: University of Missouri, Kansas City
+        position: Graduate Teaching Assistant
+        location: Kansas City, MO
+        start_date: 2024-08
+        end_date: Present
+        summary: Teaching 200+ undergraduate students in C++ and Java.
+        highlights:
+          - Designing lab exercises and grading assignments
+          - Providing 1-on-1 support; building clear communication across varied audiences
+
+      - company: University of Missouri, Kansas City
+        position: Graduate Student Researcher
+        location: Kansas City, MO
+        start_date: 2023-08
+        end_date: Present
+        summary: Research on multi-agent LLM systems, knowledge graph construction, and trustworthy AI.
+        highlights:
+          - "Multi-LLM Knowledge Graph Construction (KG-RAG): Architected multi-agent LLM pipelines (Gemini, GPT-4o, Grok 3) for clinical KG construction from unstructured oncology narratives"
+          - "Robust LLM Safety (ProKG): Bayesian reasoning over KG triplets for adversarial robustness"
+          - "Graph Reasoning (KG-QUEST): Evidence-grounded biomedical QA via diagnostic-controlled graph expansion"
+          - "Neuro-Symbolic Reasoning: Image-grounded Vision Knowledge Graphs for topology-aware medical analysis"
+
+      - company: Deepneura Technologies LLP
+        position: Data Science Intern
+        location: India (Remote)
+        start_date: 2022-03
+        end_date: 2022-05
+        highlights:
+          - Object detection in gaming video streams
+          - Signature detection pipelines for document images
+
+      - company: Dibwas Websoft Technologies LLP
+        position: Junior Data Engineer
+        location: India
+        start_date: 2021-05
+        end_date: 2021-10
+        highlights:
+          - Improved ML model accuracy through feature engineering
+          - Used SHAP values to interpret model predictions and determine KPIs
+          - Built data visualizations with matplotlib and seaborn
+
+    Publications:
+      - title: "Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation"
+        year: 2026
+        venue: arXiv:2601.01844
+      - title: "From Perception to Reasoning: Image-Grounded Knowledge Graphs for Topology-Aware Medical Analysis in Abdominal CT"
+        year: 2026
+        venue: CVPR 2026 MedReasoner Workshop (Accepted)
+      - title: "Leveraging Multi-Agent Systems and Large Language Models for Diabetes Knowledge Graphs"
+        year: 2024
+        venue: IEEE Big Data Conference - Workshop on KG and Big Data
+
+    Technical Skills:
+      - category: Languages
+        items:
+          - Python
+          - SQL
+          - JavaScript/TypeScript
+          - C++
+          - Java
+          - R
+          - MATLAB
+          - Bash
+      - category: AI & ML
+        items:
+          - PyTorch
+          - TensorFlow
+          - Hugging Face Transformers
+          - PyTorch Geometric (PyG)
+          - DGL
+          - scikit-learn
+      - category: LLMs & Agentic AI
+        items:
+          - LangChain
+          - CrewAI
+          - AutoGen
+          - RAG pipelines
+          - Prompt Engineering
+          - LoRA/QLoRA Fine-Tuning
+          - RAGAS, DeepEval
+      - category: Graph Learning & Knowledge Graphs
+        items:
+          - GNNs
+          - Graph Transformers
+          - Neo4j
+          - RDFLib
+          - SPARQL
+          - OWL/RDFS
+          - Ontology Alignment (SNOMED CT, LOINC, ICD, UMLS)
+      - category: Data, Cloud, DevOps
+        items:
+          - PostgreSQL
+          - MongoDB
+          - Docker
+          - Git
+          - REST APIs
+          - Streamlit
+          - GCP
+          - AWS (S3, Lambda)
