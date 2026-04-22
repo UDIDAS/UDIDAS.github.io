@@ -1,12 +1,12 @@
 cv:
   name: Udiptaman Das
-  label: PhD Candidate, Computer Science
+  label: PhD Student, Computer Science
   email: ud3d4@umkc.edu
   phone: +1-816-709-0395
   location: Kansas City, MO, USA
   image: ""
   summary: >
-    PhD candidate in Computer Science at UMKC specializing in multi-agent systems,
+    PhD student in Computer Science at UMKC specializing in multi-agent systems,
     LLM reliability, and knowledge graphs. Expert in building end-to-end RAG pipelines
     and clinical knowledge extraction systems, with a proven track record in reducing
     model hallucinations via trust-aware validation layers and uncertainty-calibrated

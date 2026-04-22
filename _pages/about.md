@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate @ <a href='https://www.umkc.edu/'>University of Missouri–Kansas City</a> • Knowledge Graphs • Multi-Agent LLMs • Trustworthy AI
+subtitle: PhD student @ <a href='https://www.umkc.edu/'>University of Missouri–Kansas City</a> • Knowledge Graphs • Multi-Agent LLMs • Trustworthy AI
 
 profile:
   align: right
@@ -26,11 +26,11 @@ latest_posts:
   limit: 3
 ---
 
-I'm a **PhD candidate in Computer Science** at the University of Missouri–Kansas City (expected May 2027), advised in the area of applied AI for healthcare. My research sits at the intersection of **Knowledge Graphs**, **Large Language Models**, and **Multi-Agent Systems**, with a focus on building reliable, evidence-grounded, and adversarially robust AI.
+I'm a **PhD student in Computer Science** at the University of Missouri–Kansas City (expected May 2027), advised in the area of applied AI for healthcare. My research sits at the intersection of **Knowledge Graphs**, **Large Language Models**, and **Multi-Agent Systems**, with a focus on building reliable, evidence-grounded, and adversarially robust AI.
 
 ### At a glance
 
-- **Now** — PhD candidate & Graduate Student Researcher, UMKC (Aug 2023–present); Graduate Teaching Assistant for C++ and Java (Aug 2024–present)
+- **Now** — PhD student & Graduate Student Researcher, UMKC (Aug 2023–present); Graduate Teaching Assistant for C++ and Java (Aug 2024–present)
 - **Focus** — Knowledge graphs · Multi-agent LLMs · Neuro-symbolic & trustworthy AI for healthcare
 - **Publications** — 3 accepted (IEEE BigData · CVPR MedReasoner · arXiv) · 5 under review (IEEE TKDE · ACL · AMIA ×2 · JBI)
 - **Skills** — PyTorch · LangChain · CrewAI · AutoGen · RAG / LoRA · Neo4j · RDF/OWL · SNOMED CT · GCP / AWS
