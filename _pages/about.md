@@ -28,6 +28,20 @@ latest_posts:
 
 I'm a **PhD candidate in Computer Science** at the University of Missouri–Kansas City (expected May 2027), advised in the area of applied AI for healthcare. My research sits at the intersection of **Knowledge Graphs**, **Large Language Models**, and **Multi-Agent Systems**, with a focus on building reliable, evidence-grounded, and adversarially robust AI.
 
+### At a glance
+
+- **Now** — PhD candidate & Graduate Student Researcher, UMKC (Aug 2023–present); Graduate Teaching Assistant for C++ and Java (Aug 2024–present)
+- **Focus** — Knowledge graphs · Multi-agent LLMs · Neuro-symbolic & trustworthy AI for healthcare
+- **Publications** — 3 accepted (IEEE BigData · CVPR MedReasoner · arXiv) · 5 under review (IEEE TKDE · ACL · AMIA ×2 · JBI)
+- **Skills** — PyTorch · LangChain · CrewAI · AutoGen · RAG / LoRA · Neo4j · RDF/OWL · SNOMED CT · GCP / AWS
+- **Education** — PhD CS, UMKC (expected 2027) · MS Data Science, UMKC (2024) · IIT Madras · Assam Engineering College
+
+<p style="margin-top: 0.6em;">
+  <a href="{{ '/cv/' | relative_url }}" class="btn btn-sm btn-primary">Read full CV →</a>
+  &nbsp;
+  <a href="{{ '/assets/pdf/CV_UD.pdf' | relative_url }}" class="btn btn-sm btn-outline-primary">Download PDF</a>
+</p>
+
 ### Research Focus
 
 I work on making AI systems trustworthy in high-stakes domains. Three themes run through my work:

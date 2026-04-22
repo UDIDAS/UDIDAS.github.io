@@ -69,10 +69,21 @@ cv:
         end_date: Present
         summary: Research on multi-agent LLM systems, knowledge graph construction, and trustworthy AI.
         highlights:
-          - "Multi-LLM Knowledge Graph Construction (KG-RAG): Architected multi-agent LLM pipelines (Gemini, GPT-4o, Grok 3) for clinical KG construction from unstructured oncology narratives"
-          - "Robust LLM Safety (ProKG): Bayesian reasoning over KG triplets for adversarial robustness"
+          - "Multi-LLM Knowledge Graph Construction (KG-RAG): Architected multi-agent LLM pipelines (Gemini, GPT-4o, Grok 3) for clinical KG construction from unstructured oncology narratives with ontology-aligned RDF/OWL encoding"
+          - "LLM Evaluation & Ontology Alignment: Evaluated fine-tuned LLMs on medical datasets with FHIR-standard ontology mapping (SNOMED CT, LOINC, ICD) following FAIR principles"
+          - "Robust LLM Safety (ProKG): Triplet-level Bayesian reasoning over KGs for adversarial robustness"
           - "Graph Reasoning (KG-QUEST): Evidence-grounded biomedical QA via diagnostic-controlled graph expansion"
           - "Neuro-Symbolic Reasoning: Image-grounded Vision Knowledge Graphs for topology-aware medical analysis"
+          - "Web Development (OHJC): Built web applications for Our Health Jackson County, United Way of Greater Kansas City, and Hispanic Development Fund addressing regional health disparities"
+
+      - company: University of Missouri, Kansas City
+        position: Student Assistant Paraprof
+        location: Kansas City, MO
+        start_date: 2023-01
+        end_date: 2023-12
+        highlights:
+          - Equipment and chemical inventory management
+          - Surplus equipment management and general office duties
 
       - company: Deepneura Technologies LLP
         position: Data Science Intern
@@ -94,15 +105,21 @@ cv:
           - Built data visualizations with matplotlib and seaborn
 
     Publications:
-      - title: "Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation"
-        year: 2026
-        venue: arXiv:2601.01844
       - title: "From Perception to Reasoning: Image-Grounded Knowledge Graphs for Topology-Aware Medical Analysis in Abdominal CT"
         year: 2026
         venue: CVPR 2026 MedReasoner Workshop (Accepted)
+      - title: "Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation"
+        year: 2026
+        venue: arXiv:2601.01844
+      - title: "KG-QUEST: Evidence-Aware and Uncertainty-Calibrated Reasoning over Multimodal Knowledge Graphs"
+        year: 2026
+        venue: IEEE TKDE (Under review)
+      - title: "ProKG: Triplet-Level Bayesian Reasoning over Knowledge Graphs for Robust LLM Safety"
+        year: 2026
+        venue: ACL 2026 (Under review)
       - title: "Leveraging Multi-Agent Systems and Large Language Models for Diabetes Knowledge Graphs"
         year: 2024
-        venue: IEEE Big Data Conference - Workshop on KG and Big Data
+        venue: IEEE Big Data Conference — Workshop on KG and Big Data
 
     Technical Skills:
       - category: Languages
@@ -140,13 +157,17 @@ cv:
           - RDFLib
           - SPARQL
           - OWL/RDFS
-          - Ontology Alignment (SNOMED CT, LOINC, ICD, UMLS)
+          - SWRL
+          - Protégé
+          - Ontology Alignment (SNOMED CT, LOINC, ICD, RadLex, RxNorm, UMLS, BioPortal)
       - category: Data, Cloud, DevOps
         items:
           - PostgreSQL
           - MongoDB
+          - Firebase/Firestore
           - Docker
           - Git
+          - Vercel
           - REST APIs
           - Streamlit
           - GCP
