@@ -9,7 +9,7 @@ last_name: Das
 contact_note: >
   Best reached via email. Happy to discuss research collaborations, internships, and knowledge graph / multi-agent LLM systems.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD candidate in Computer Science at UMKC working on knowledge graphs, multi-agent LLM systems, and trustworthy AI for healthcare.
+  PhD student in Computer Science at UMKC working on knowledge graphs, multi-agent LLM systems, and trustworthy AI for healthcare.
 footer_text: >
   &copy; Udiptaman Das. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
