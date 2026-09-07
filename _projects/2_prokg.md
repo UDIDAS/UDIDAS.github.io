@@ -3,7 +3,7 @@ layout: page
 title: ProKG
 description: Triplet-Level Bayesian Reasoning for Robust LLM Safety
 img: assets/img/3.jpg
-importance: 2
+importance: 5
 category: research
 related_publications: true
 ---
@@ -26,5 +26,3 @@ ProKG's probabilistic, triplet-level reasoning addresses all three by making unc
 ### Results
 
 On **NOTINJECT** and **ADVBENCH**, ProKG substantially reduces false-positive refusals on benign trigger-containing inputs while maintaining strong robustness against adversarial jailbreak attacks — at practical inference cost.
-
-*Under review at ACL 2026.*

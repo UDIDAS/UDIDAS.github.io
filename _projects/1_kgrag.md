@@ -3,7 +3,7 @@ layout: page
 title: KG-RAG
 description: Clinical Knowledge Graph Construction with Multi-LLM Agents
 img: assets/img/1.jpg
-importance: 1
+importance: 4
 category: research
 related_publications: true
 ---

@@ -9,11 +9,11 @@ last_name: Das
 contact_note: >
   Best reached via email. Happy to discuss research collaborations, internships, and knowledge graph / multi-agent LLM systems.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Computer Science at UMKC working on knowledge graphs, multi-agent LLM systems, and trustworthy AI for healthcare.
+  PhD Candidate in Computer Science at UMKC working on multimodal knowledge graphs, multi-agent LLM systems, and trustworthy medical AI.
 footer_text: >
   &copy; Udiptaman Das. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: knowledge graphs, large language models, multi-agent systems, trustworthy AI, clinical NLP, PhD, UMKC, Udiptaman Das
+keywords: multimodal knowledge graphs, large language models, multi-agent systems, trustworthy medical AI, clinical NLP, PhD, UMKC, Udiptaman Das
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -90,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: notes # blog_name will be displayed in your blog page
+blog_description: occasional notes on research and engineering
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

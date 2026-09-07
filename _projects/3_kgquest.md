@@ -3,7 +3,7 @@ layout: page
 title: KG-QUEST
 description: Diagnostic-Guided Graph Reasoning for Biomedical QA
 img: assets/img/5.jpg
-importance: 3
+importance: 6
 category: research
 related_publications: true
 ---
@@ -23,5 +23,3 @@ Unlike GraphRAG-style approaches that treat graphs as retrieval scaffolds, KG-QU
 ### Results
 
 Evaluated on **LiveQA, MedQA, MedMCQA, and MMLU-med**, KG-QUEST shows consistent improvements over retrieval-augmented and LLM-based baselines, particularly on multi-hop clinical reasoning tasks — while maintaining interpretable reasoning paths and low hallucination rates.
-
-*Under review at IEEE TKDE 2026.*

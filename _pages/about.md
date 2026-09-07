@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ <a href='https://www.umkc.edu/'>University of Missouri–Kansas City</a> • Knowledge Graphs • Multi-Agent LLMs • Trustworthy AI
+subtitle: PhD Candidate @ <a href='https://www.umkc.edu/'>University of Missouri–Kansas City</a> • Multimodal Knowledge Graphs • Trustworthy Medical AI
 
 profile:
   align: right
@@ -26,14 +26,14 @@ latest_posts:
   limit: 3
 ---
 
-I'm a **PhD student in Computer Science** at the University of Missouri–Kansas City (expected May 2027), advised in the area of applied AI for healthcare. My research sits at the intersection of **Knowledge Graphs**, **Large Language Models**, and **Multi-Agent Systems**, with a focus on building reliable, evidence-grounded, and adversarially robust AI.
+I'm a **PhD Candidate in Computer Science** at the University of Missouri–Kansas City (expected May 2027), advised by Dr. Yugyung Lee. My research centers on **multimodal knowledge graphs (MMKGs)** and **trustworthy medical AI** — integrating clinical text, imaging, and segmentation into structured, ontology-grounded knowledge for reasoning and decision support.
 
 ### At a glance
 
-- **Now** — PhD student & Graduate Student Researcher, UMKC (Aug 2023–present); Graduate Teaching Assistant for C++ and Java (Aug 2024–present)
-- **Focus** — Knowledge graphs · Multi-agent LLMs · Neuro-symbolic & trustworthy AI for healthcare
-- **Publications** — 3 accepted (IEEE BigData · CVPR MedReasoner · arXiv) · 5 under review (IEEE TKDE · ACL · AMIA ×2 · JBI)
-- **Skills** — PyTorch · LangChain · CrewAI · AutoGen · RAG / LoRA · Neo4j · RDF/OWL · SNOMED CT · GCP / AWS
+- **Now** — PhD Candidate & Doctoral Researcher, UMKC (Aug 2023–present); passed comprehensive examination May 2026
+- **Focus** — Multimodal knowledge graphs · Trustworthy medical AI · Multi-agent LLM systems · Neuro-symbolic reasoning
+- **Publications** — 5 accepted/published · 3 under review (see [publications]({{ '/publications/' | relative_url }}))
+- **Skills** — PyTorch · LangChain · CrewAI · AutoGen · RAG / LoRA · Neo4j · RDF/OWL · Medical imaging (segmentation, 3D/4D) · GCP / AWS
 - **Education** — PhD CS, UMKC (expected 2027) · MS Data Science, UMKC (2024) · IIT Madras · Assam Engineering College
 
 <p style="margin-top: 0.6em;">
@@ -44,20 +44,22 @@ I'm a **PhD student in Computer Science** at the University of Missouri–Kansas
 
 ### Research Focus
 
-I work on making AI systems trustworthy in high-stakes domains. Three themes run through my work:
+I work on making AI systems trustworthy in high-stakes clinical domains. Three themes run through my work:
 
-- **Agentic AI for Knowledge Graph Construction.** Multi-LLM pipelines that extract structured knowledge from unstructured clinical text, with consensus-based hallucination detection.
-- **Graph Reasoning under Uncertainty.** Bayesian and uncertainty-calibrated reasoning over knowledge graphs for robust LLM safety and clinical decision support.
-- **Neuro-Symbolic Reasoning.** Combining graph representations with vision/language models for topology-aware medical analysis.
+- **Multimodal Knowledge Graph Construction.** Multi-agent LLM pipelines that turn unstructured clinical narratives and medical images into ontology-aligned knowledge graphs, with retrieval grounding and uncertainty-aware validation.
+- **Image-Grounded Clinical Reasoning.** Vision knowledge graphs that link medical imaging to structured clinical context for topology-aware analysis and explainable surgical-oncology decision support.
+- **Neuro-Symbolic Decision Support.** Combining graph representations with vision/language models so clinical recommendations stay evidence-grounded and auditable.
 
 ### Current Work
 
-I'm preparing a **NeurIPS 2026** submission (MedGraph-JEPA) on joint-embedding predictive architectures over multimodal medical knowledge graphs. I also have papers under review at **IEEE TKDE**, **ACL**, **AMIA**, and **JBI**.
+- **Trustworthy clinical KG construction (TrustKG)** — retrieval-grounded, uncertainty-calibrated knowledge graphs from heterogeneous clinical narratives.
+- **Surgical-oncology vision knowledge graphs** — 3D-grounded knowledge graphs from abdominal imaging for explainable surgical decision support.
+- **Airway digital-twin MMKG (Project GENESIS)** — collaboration with Children's Mercy Hospital on 4D (3D + temporal) segmentation-driven knowledge graphs of pediatric airway anatomy.
 
 ### Background
 
-Before my PhD, I earned an **MS in Data Science and Analytics** (UMKC, 2024), a **foundational degree in Programming and Data Science** from **IIT Madras**, and a **BE in Electrical Engineering** from **Assam Engineering College** (India). I've interned in applied ML/data engineering roles and currently serve as a Graduate Teaching Assistant for C++ and Java courses.
+Before my PhD, I earned an **MS in Data Science and Analytics** (UMKC, 2024), a **foundational degree in Programming and Data Science** from **IIT Madras**, and a **BE in Electrical Engineering** from **Assam Engineering College** (India). I've interned in applied ML/data engineering roles and served as a Graduate Teaching Assistant for C++ and Java courses (2024–2026).
 
 ### Looking For
 
-I'm actively seeking **Summer 2026 research internships** in applied ML, graph learning, agentic AI, or clinical NLP. Feel free to [reach out](mailto:ud3d4@umkc.edu).
+I'm seeking **research internships and full-time applied/research scientist roles** in applied ML, multimodal learning, knowledge graphs, agentic AI, or clinical NLP as I approach graduation (May 2027). Feel free to [reach out](mailto:ud3d4@umkc.edu).
