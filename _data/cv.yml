@@ -30,7 +30,7 @@ cv:
         highlights:
           - Passed Comprehensive Examination — May 28, 2026
           - Research focus on multimodal knowledge graphs and trustworthy medical AI
-          - 5 accepted publications, 3 under review
+          - 7 accepted publications, 2 under review
 
       - institution: University of Missouri, Kansas City
         location: Kansas City, MO, USA
@@ -103,6 +103,12 @@ cv:
           - Python-based data visualization
 
     Publications:
+      - title: "Failure-Aware Tool Orchestration for Verifiable Medical Imaging Agents"
+        year: 2026
+        venue: NeurIPS 2026 — Workshop on AI Agents for Biomedical Imaging and Multimodal Clinical Data (AIM) — Oral
+      - title: "Reasoning Across Modalities: An Evidence-Aware Multimodal Clinical Agent for CT Imaging and Longitudinal Clinical Records"
+        year: 2026
+        venue: NeurIPS 2026 — Workshop on AI Agents for Biomedical Imaging and Multimodal Clinical Data (AIM)
       - title: "Ontology-Grounded Imaging Phenotype Knowledge Graphs for Explainable Oncology Reasoning from Abdominal CT"
         year: 2026
         venue: AMIA Annual Symposium (Accepted)
@@ -118,15 +124,12 @@ cv:
       - title: "Leveraging Multi-Agent Systems and Large Language Models for Diabetes Knowledge Graphs"
         year: 2024
         venue: IEEE Big Data Conference — Workshop on KG and Big Data
-      - title: "TRUST-KG: Trustworthy Retrieval-Grounded Clinical Knowledge Graph Construction from Unstructured Oncology Narratives"
+      - title: "TRUST-KG: Evidence-Grounded, Calibrated, and Selective Knowledge Graph Construction from Heterogeneous Clinical Big Data"
         year: 2026
         venue: IEEE Big Data 2026 (Under review)
-      - title: "Ontology-Aligned Vision Knowledge Graphs for Surgical Oncology Decision Support"
+      - title: "Airway-MMKG: Knowledge-Guided Multimodal Reasoning for Airway Structural Recovery and Abnormality Retrieval"
         year: 2027
-        venue: AAAI 2027 (Under review)
-      - title: "Multimodal Knowledge Graphs for 4D Airway Segmentation and Digital-Twin Modeling"
-        year: 2026
-        venue: WACV (Under review)
+        venue: WACV 2027, Applications Track (Under review)
 
     Technical Skills:
       - category: Languages & Tooling

@@ -32,7 +32,7 @@ I'm a **PhD Candidate in Computer Science** at the University of Missouri–Kans
 
 - **Now** — PhD Candidate & Doctoral Researcher, UMKC (Aug 2023–present); passed comprehensive examination May 2026
 - **Focus** — Multimodal knowledge graphs · Trustworthy medical AI · Multi-agent LLM systems · Neuro-symbolic reasoning
-- **Publications** — 5 accepted/published · 3 under review (see [publications]({{ '/publications/' | relative_url }}))
+- **Publications** — 7 accepted/published (incl. NeurIPS 2026 AIM workshop oral) · 2 under review (see [publications]({{ '/publications/' | relative_url }}))
 - **Skills** — PyTorch · LangChain · CrewAI · AutoGen · RAG / LoRA · Neo4j · RDF/OWL · Medical imaging (segmentation, 3D/4D) · GCP / AWS
 - **Education** — PhD CS, UMKC (expected 2027) · MS Data Science, UMKC (2024) · IIT Madras · Assam Engineering College
 

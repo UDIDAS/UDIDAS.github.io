@@ -18,4 +18,4 @@ Medical image segmentations carry rich anatomical and topological structure that
 
 - *From Perception to Reasoning: Image-Grounded Knowledge Graphs for Topology-Aware Medical Analysis in Abdominal CT* — **CVPR 2026 MedReasoner Workshop**
 - *Ontology-Grounded Imaging Phenotype Knowledge Graphs for Explainable Oncology Reasoning from Abdominal CT* — **AMIA 2026**
-- Vision-KG work for surgical decision support — under review at **AAAI 2027**
+- Agentic extensions of this line — failure-aware tool orchestration and evidence-aware multimodal reasoning — **NeurIPS 2026 AIM Workshop** (one oral)

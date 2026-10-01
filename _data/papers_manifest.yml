@@ -1,0 +1,14 @@
+# Maps PDFs in PhD\papers\{accepted,under_review} to bib keys in _bibliography/.
+# Maintained by the update-publications skill; checked by bin/check_publications.py.
+# A paper moved to papers\extra gets its row deleted and its bib entry removed.
+accepted:
+  BigData_KnowledgeGraph_2024.pdf: ho2024diabetes
+  KG-RAG.pdf: das2026kgrag
+  19_From_Perception_to_Reasonin_CVPR26.pdf: das2026perception
+  AMIA_2026_MMKG.pdf: das2026imagingphenotype
+  AMIA_MiMIC_KG.pdf: atmakuri2026nscare
+  20_Failure_Aware_Tool_Orchestr_NIPS_AIM26.pdf: das2026failureaware
+  36_Reasoning_Across_Modalities_NIPS_AIM26.pdf: das2026reasoningmodalities
+under_review:
+  IEEE-BigData_2026_TrustKG.pdf: das2026trustkg
+  WACV_2027_MMKG.pdf: das2027airwaymmkg
