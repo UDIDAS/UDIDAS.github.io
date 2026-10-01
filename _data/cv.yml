@@ -19,8 +19,8 @@ cv:
 
   sections:
     Technical Skills:
-      - category: Languages & Software Engineering
-        items:
+      - name:Languages & Software Engineering
+        keywords:
           - Python
           - SQL
           - C++
@@ -33,8 +33,8 @@ cv:
           - Unit Testing & Code Review
           - PostgreSQL
           - MongoDB
-      - category: Machine Learning & AI
-        items:
+      - name:Machine Learning & AI
+        keywords:
           - PyTorch
           - TensorFlow
           - scikit-learn
@@ -48,8 +48,8 @@ cv:
           - Statistical Modeling
           - Uncertainty Quantification
           - Evaluation-First Development
-      - category: Data & Cloud
-        items:
+      - name:Data & Cloud
+        keywords:
           - Neo4j
           - SPARQL
           - RDF
