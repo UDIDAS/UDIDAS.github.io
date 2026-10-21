@@ -16,4 +16,4 @@ I build the **4D (3D + temporal) segmentation-driven multimodal knowledge graph*
 
 ### Status
 
-Early stage — a companion methods paper, *Multimodal Knowledge Graphs for 4D Airway Segmentation and Digital-Twin Modeling*, is under review at **WACV**.
+Early stage — a companion methods paper on airway structural recovery and abnormality retrieval is in revision.

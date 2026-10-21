@@ -24,4 +24,4 @@ TrustKG builds ontology-aligned multimodal knowledge graphs from clinical narrat
 
 ### Status
 
-Under review at **IEEE Big Data 2026**.
+Manuscript in revision for resubmission; the companion decision-theory paper (*Beyond Majority Consensus*) is under review at **AAMAS 2027**.
