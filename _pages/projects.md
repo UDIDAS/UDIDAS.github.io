@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects — multimodal knowledge graphs, trustworthy clinical AI, and graph reasoning.
+description: Software I've helped build and ship.
 nav: true
 nav_order: 4
-display_categories: [research]
+display_categories: [software]
 horizontal: false
 ---
 
