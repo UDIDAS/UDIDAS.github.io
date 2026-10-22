@@ -2,15 +2,13 @@
 layout: page
 title: WeListen
 description: A community feedback & survey platform with live focus groups and an analytics dashboard
-img: assets/img/welisten.png
+img: assets/img/welisten_logo.png
 importance: 1
 category: software
 related_publications: false
 ---
 
 <a href="https://www.welisten-ai.org/" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-primary">Visit welisten-ai.org →</a>
-&nbsp;
-<a href="https://github.com/duyhho/welisten-webapp" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">Source on GitHub</a>
 
 **WeListen** is a survey and community-feedback web platform built for **Our Health Jackson County**, supporting regional health-disparity initiatives in the Kansas City area. It lets community organizations run structured surveys and live, moderated focus-group sessions, then turns the collected responses into analytics that inform public-health decisions.
 
