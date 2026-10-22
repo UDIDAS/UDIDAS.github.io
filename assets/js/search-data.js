@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Research projects — multimodal knowledge graphs, trustworthy clinical AI, and graph reasoning.",
+          description: "Software I&#39;ve helped build and ship.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -91,36 +91,11 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-at-the-neurips-2026-workshop-on-ai-agents-for-biomedical-imaging-and-multimodal-clinical-data-aim-failure-aware-tool-orchestration-for-verifiable-medical-imaging-agents-oral-and-reasoning-across-modalities",
           title: 'Two papers accepted at the NeurIPS 2026 Workshop on AI Agents for Biomedical...',
           description: "",
-          section: "News",},{id: "projects-kg-rag",
-          title: 'KG-RAG',
-          description: "Clinical Knowledge Graph Construction with Multi-LLM Agents",
+          section: "News",},{id: "projects-welisten",
+          title: 'WeListen',
+          description: "A community feedback &amp; survey platform with live focus groups and an analytics dashboard",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_kgrag/";
-            },},{id: "projects-prokg",
-          title: 'ProKG',
-          description: "Triplet-Level Bayesian Reasoning for Robust LLM Safety",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_prokg/";
-            },},{id: "projects-kg-quest",
-          title: 'KG-QUEST',
-          description: "Diagnostic-Guided Graph Reasoning for Biomedical QA",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_kgquest/";
-            },},{id: "projects-trustkg",
-          title: 'TrustKG',
-          description: "Trustworthy Clinical Knowledge Graph Construction",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_trustkg/";
-            },},{id: "projects-surgical-oncology-vision-kg",
-          title: 'Surgical-Oncology Vision KG',
-          description: "Image-Grounded Knowledge Graphs for Explainable Surgical Decision Support",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_oncology_vkg/";
-            },},{id: "projects-airway-digital-twin-mmkg",
-          title: 'Airway Digital-Twin MMKG',
-          description: "4D Segmentation-Driven Knowledge Graphs for Pediatric Airway Modeling",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_airway_mmkg/";
+              window.location.href = "/projects/1_welisten/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
